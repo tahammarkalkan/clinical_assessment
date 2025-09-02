@@ -1,0 +1,5 @@
+{
+  "name": "Clinical Assessment Platform",
+  "description": "A web application for clinicians to administer Beck Depression and Anxiety Inventories, track patient progress over time, and manage session notes.",
+  "requestFramePermissions": []
+}
